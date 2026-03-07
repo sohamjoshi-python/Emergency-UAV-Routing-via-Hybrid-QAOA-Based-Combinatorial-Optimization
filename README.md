@@ -7,11 +7,13 @@ The experiments compare classical optimization with quantum formulations across 
 ---
 
 # Repository Structure
+```text
 ├── PhoenixAllAlgorithmsRun.ipynb
 ├── ClassicalAlgorithm2D.ipynb
 ├── AnalyzeOutput.ipynb
 ├── data.csv
 └── README.md
+```
 
 
 ---
