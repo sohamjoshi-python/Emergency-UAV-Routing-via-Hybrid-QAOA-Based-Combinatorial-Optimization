@@ -110,3 +110,7 @@ After the experiments finish, run:
 AnalyzeOutput.ipynb
 ```
 This notebook generates visualizations and statistical comparisons of the results.
+
+# Acknowledgement
+
+This project uses GMNS Plus for the underlying graph, created by NSF POSE Team at Arizona State University (ASU) which includes my mentor Professor Zhou.
